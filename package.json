@@ -1,0 +1,17 @@
+{
+  "name": "chatbot-rive",
+  "version": "1.0.0",
+  "description": "test chatbot using rive",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rive"
+  ],
+  "author": "phillip dodd",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
